@@ -8,6 +8,8 @@
 *****************************************************************************/
 
 /*
+* This program should be running in linux systems.
+*
 * This program is simplex algorithm which contain
 * two-stage simplex algorithm and perturbation method
 * to solve degradation form.
