@@ -1,3 +1,25 @@
+/**
+******************************************************************************
+*
+* @file       Simplex.cpp
+* @author     Wei Wang -> narjiajia@outlook.com
+* @brief      Linear Programming Simplex Method
+*
+*****************************************************************************/
+
+/*
+* This program is simplex algorithm which contain
+* two-stage simplex algorithm and perturbation method
+* to solve degradation form.
+*
+* Prepared data123 use primal simplex algorithm,
+* data4 is solved with two-stage simplex algorithm
+* and data5 is solved with perturbation method.
+* In addition, this program is also support inputting
+* any data by user.
+*/
+
+
 #include <iostream>
 #include <vector>
 #include <cstdio>
@@ -707,5 +729,3 @@ int main()
 
     return 0;
 }
-
-
