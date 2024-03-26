@@ -24,6 +24,6 @@ Input in the terminal
 
 If you have any issue compiling/running Simplex or you would like to know anything about the code, please contact the authors:
 
-    Wei Wang -> narjiajia@outlook.com
+    Wei Wang -> shaxikai@outlook.com
     
     
