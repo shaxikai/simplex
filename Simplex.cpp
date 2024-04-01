@@ -2,7 +2,7 @@
 ******************************************************************************
 *
 * @file       Simplex.cpp
-* @author     Wei Wang -> narjiajia@outlook.com
+* @author     Wei Wang -> shaxikai@outlook.com
 * @brief      Linear Programming Simplex Method
 *
 *****************************************************************************/
